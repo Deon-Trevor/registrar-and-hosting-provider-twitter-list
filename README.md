@@ -12,7 +12,7 @@ The list is still pretty small, please feel free contribute. The list is a simpl
 ```
 
 # Usecase
-The idea for this list is [PhishGaloe](https://twitter.com/phishgalore/status/1467900400221179913)'s. His idea is to use this in a twitter bot like [Phisher Of Man](https://twitter.com/PhisherOfMan) to report phishing, malware, etc. [Phisher Of Man](https://twitter.com/PhisherOfMan)'s current version needs me manually look for a registrar/hosting provider's handle and feed it the script like:
+The idea for this list is [PhishGalore](https://twitter.com/phishgalore/status/1467900400221179913)'s. His idea is to use this in a twitter bot like [Phisher Of Man](https://twitter.com/PhisherOfMan) to report phishing, malware, etc. [Phisher Of Man](https://twitter.com/PhisherOfMan)'s current version needs me manually look for a registrar/hosting provider's handle and feed it the script like:
 
 ```
 Enter the target
